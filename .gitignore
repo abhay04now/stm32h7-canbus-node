@@ -1,0 +1,6 @@
+Debug/
+Release/
+build/
+.settings/
+*.swp
+.DS_Store
